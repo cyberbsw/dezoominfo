@@ -1,6 +1,6 @@
 # dezoominfo
 
-Parses employee information from zoominfo.com.
+Phishing tool to parse employee information from zoominfo.com.
 
 ### Usage
 
